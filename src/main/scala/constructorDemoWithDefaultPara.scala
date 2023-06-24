@@ -18,6 +18,8 @@ object constructorDemoWithDefaultPara {
     println("hello world!!!")
     var m = new demo1()
     println(m.addNumb())
-    var n = new demo1(z="Hello World")    //in case of default parameter, we can provide the values but either in sequence or by specifing value is for which parameter
+    var n = new demo1(z="Hello Worlds")    //in case of default parameter, we can provide the values but either in sequence or by specifing value is for which parameter
+  println(s"value of z is ${n.c}")
   }
+
 }
