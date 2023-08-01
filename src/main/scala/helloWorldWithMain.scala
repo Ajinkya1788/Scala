@@ -13,5 +13,8 @@ object helloWorldWithMain {
 
   }
 }
-// not mandatory to specify return key word and return type
-// if return key word is specified then mandatory to specify return type
+// function is the reusable piece of code
+// add is name of the function.i and i1 are arguments.
+// It is mandatory to specify the datatype for arguments.
+// It is not mandatory to specify return key word and return type.
+// if return key word is specified then mandatory to specify return type.
