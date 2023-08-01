@@ -2,6 +2,10 @@
 //          1. Public (By default)
 //          2. Private (Can be accessed only in the class it is defined)
 //          3. Protected (Can be accessed only in the class it s defined and extending to sub class
+//Access level in Scala
+// Public Variable : can be accessed anywhere(It is default type. No need to define)
+// Private Variable: can be accessed only withing the class it is define( Define using key word private)
+//Protected variable: can be accessed in the class it is defined and the subclass extending the given class
 class Car {
   private var Showroomcost =45
   var Topextraamount=0

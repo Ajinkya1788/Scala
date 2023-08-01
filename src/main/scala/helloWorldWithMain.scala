@@ -18,3 +18,5 @@ object helloWorldWithMain {
 // It is mandatory to specify the datatype for arguments.
 // It is not mandatory to specify return key word and return type.
 // if return key word is specified then mandatory to specify return type.
+//for example def add(i:Int, j:Int):Int{var k=i+j
+//                                      return k}
